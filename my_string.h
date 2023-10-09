@@ -17,7 +17,7 @@
 
  #include <stdio.h>
 
-/*================ Prototype Of Functions ================*/
+/*================ Prototypes Of Functions ================*/
 
 void *my_memchr(void *string, int c, unsigned int length);
 
